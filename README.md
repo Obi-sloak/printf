@@ -21,5 +21,5 @@ An optional field width
 
 An optional precision modifier
 
-An optional length modifier
+An optional length modifier. 
 By Obi slok.
